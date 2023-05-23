@@ -1,0 +1,21 @@
+{
+  "name": "packapck",
+  "version": "1.0.0",
+  "description": "questcow",
+  "main": "index.js",
+  "scripts": {
+    "test": "--test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "Nesta",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
